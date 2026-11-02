@@ -1,0 +1,58 @@
+[
+  {
+    "id": "0x00124b0029116243",
+    "name": "temperature_humidity_ground_floor",
+    "model": 2,
+    "protocol": 1,
+    "description": "Temperature and humidity sensor on ground floor"
+  },
+  {
+    "id": "0x00124b0029115324",
+    "name": "temperature_humidity_1st_floor",
+    "model": 2,
+    "protocol": 1,
+    "description": "Temperature and humidity sensor on 1st floor"
+  },
+  {
+    "id": "0x00124b00291158e7",
+    "name": "temperature_humidity_2nd_floor",
+    "model": 2,
+    "protocol": 1,
+    "description": "Temperature and humidity sensor on 2nd floor"
+  },
+  {
+    "id": "0x00124b0025485d3a",
+    "name": "door_1st_floor_south",
+    "model": 4,
+    "protocol": 1,
+    "description": "Door sensor on 1st floor on south side of the house"
+  },
+  {
+    "id": "0x00124b002521eb9d",
+    "name": "door_ground_floor_west",
+    "model": 4,
+    "protocol": 1,
+    "description": "Door sensor on ground floor on west side of the house"
+  },
+  {
+    "id": "0x00124b0025314d3d",
+    "name": "door_ground_floor_east",
+    "model": 4,
+    "protocol": 1,
+    "description": "Door sensor on ground floor on east side of the house"
+  },
+  {
+    "id": "0x00124b0024455164",
+    "name": "motion_ground_floor_living_room",
+    "model": 3,
+    "protocol": 1,
+    "description": "Motion sensor on ground floor in living room"
+  },
+  {
+    "id": "0x00124b002892a073",
+    "name": "wireless_switch_1",
+    "model": 1,
+    "protocol": 1,
+    "description": "Wireless switch 1"
+  }
+]
